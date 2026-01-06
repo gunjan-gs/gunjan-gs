@@ -9,7 +9,7 @@
 ###
 
 <p align="left">
-My name is Gunjan and I'm a Full Stack Developer from India with strong expertise in frontend development.
+My name is Gunjan and I'm a Full Stack Developer from India.
 </p>
 
 ###
@@ -19,15 +19,16 @@ My name is Gunjan and I'm a Full Stack Developer from India with strong expertis
 ###
 
 <p align="left">
-🌱 I’m currently learning: Full Stack Development, Data Structures & Algorithms, and modern JavaScript<br>
-📧 Feel free to reach out: your-email@example.com<br>
+🌱 I’m currently learning: building scalable systems, improving code quality, and leveraging AI to create smarter, user-focused applications.
+<br>
+📧 Feel free to reach out: gunjansoni27official@gmail.com<br>
 </p>
 
 <a href="https://your-portfolio-link.vercel.app/" target="_blank">Portfolio</a>
 
 ###
 
-<h2 align="left">💻 Tech Stack</h2>
+<h2 align="left">💻 I Code with</h2>
 
 ###
 
@@ -66,7 +67,7 @@ My name is Gunjan and I'm a Full Stack Developer from India with strong expertis
 
 ###
 
-<h3 align="left">✍️ Random Dev Quote</h3>
+<h3 align="left">✍️ Dev Quote</h3>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
